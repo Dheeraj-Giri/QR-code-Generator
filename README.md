@@ -1,8 +1,6 @@
-# QR-code-Generator
-# Python-Project
-This is python project for beginner and If you are beginner then try to do all project that preset in the repository.
+## QR-code-Generator
 
-# QRCODE-Generator.
+This is python project for beginner and If you are beginner then try to do all project that preset in the repository.
 This program generate aQrcode. 
 
 ## Features
